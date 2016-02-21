@@ -27,13 +27,13 @@ LOCAL_SRC_FILES := \
     glslang/MachineIndependent/ShaderLang.cpp \
     glslang/MachineIndependent/SymbolTable.cpp \
     glslang/MachineIndependent/Versions.cpp \
-    glslang/MachineIndependent/Preprocessor/Pp.cpp \
-    glslang/MachineIndependent/Preprocessor/PpAtom.cpp \
-    glslang/MachineIndependent/Preprocessor/PpContext.cpp \
-    glslang/MachineIndependent/Preprocessor/PpMemory.cpp \
-    glslang/MachineIndependent/Preprocessor/PpScanner.cpp \
-    glslang/MachineIndependent/Preprocessor/PpSymbols.cpp \
-    glslang/MachineIndependent/Preprocessor/PpTokens.cpp \
+    glslang/MachineIndependent/preprocessor/Pp.cpp \
+    glslang/MachineIndependent/preprocessor/PpAtom.cpp \
+    glslang/MachineIndependent/preprocessor/PpContext.cpp \
+    glslang/MachineIndependent/preprocessor/PpMemory.cpp \
+    glslang/MachineIndependent/preprocessor/PpScanner.cpp \
+    glslang/MachineIndependent/preprocessor/PpSymbols.cpp \
+    glslang/MachineIndependent/preprocessor/PpTokens.cpp \
     glslang/OSDependent/Unix/ossource.cpp \
     SPIRV/disassemble.cpp \
     SPIRV/doc.cpp \
