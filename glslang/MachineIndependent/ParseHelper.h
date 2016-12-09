@@ -41,8 +41,7 @@
 #include "SymbolTable.h"
 #include "localintermediate.h"
 #include "Scan.h"
-#include <functional>
-
+#include <stdarg.h>
 #include <functional>
 
 namespace glslang {
